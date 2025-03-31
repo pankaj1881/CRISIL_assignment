@@ -56,4 +56,5 @@ Assuming target column is multiclass type, i.e (column name : Rating)
 
     Data corelation is weak to predict target.
     we can see that combined data with structured with text data with sentiment score improves model accuracy. (i.e Model 3 )
-    Text data is not giving good result as its not sufficient.
+    Text data is not giving good result as its not sufficient for model building.
+    More text data can help to extract more meaningful keywords and sentiment score which would help us to build better model. 
